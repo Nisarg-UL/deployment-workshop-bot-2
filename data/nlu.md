@@ -5,6 +5,8 @@
 - good morning
 - good evening
 - hey there
+- Hello
+- Hi
 
 ## intent:goodbye
 - bye
@@ -18,6 +20,7 @@
 - of course
 - that sounds good
 - correct
+- kool
 
 ## intent:deny
 - no
@@ -26,7 +29,6 @@
 - don't like that
 - no way
 - not really
-- kool
 
 ## intent:mood_great
 - perfect
@@ -38,6 +40,7 @@
 - I am great
 - I'm good
 - Awesome
+- Fantastic
 
 ## intent:mood_unhappy
 - sad
