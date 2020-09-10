@@ -54,6 +54,8 @@
 - extremely sad
 - so sad
 - ugly
+- i need vacation :(
+- i need coffee!
 
 ## intent:bot_challenge
 - are you a bot?
