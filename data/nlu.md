@@ -26,6 +26,7 @@
 - don't like that
 - no way
 - not really
+- kool
 
 ## intent:mood_great
 - perfect
@@ -36,6 +37,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- Awesome
 
 ## intent:mood_unhappy
 - sad
@@ -48,6 +50,7 @@
 - not very good
 - extremely sad
 - so sad
+- ugly
 
 ## intent:bot_challenge
 - are you a bot?
